@@ -1,0 +1,13 @@
+{
+  "name": "ww-neon-switch",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "weweb/cli serve",
+    "build": "weweb/cli build"
+  },
+  "dependencies": {
+    "weweb/cli": "latest"
+  }
+}
